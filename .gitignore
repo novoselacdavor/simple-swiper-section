@@ -1,0 +1,11 @@
+# Server and OS
+.DS_Store
+.htaccess
+.well-known
+.ftpquota
+
+# Node
+node_modules/
+
+# Theme
+dist/
